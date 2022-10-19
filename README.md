@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://suchmioko.blogspot.com"><img src="banner.png" alt="SuchMioko Banner"></a>
+  <a href="https://suchmioko.blogspot.com"><img src="banne.png" alt="SuchMioko Banner"></a>
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://facebook.com/SuchPendragon">SuchMioko</a>!</h1>
