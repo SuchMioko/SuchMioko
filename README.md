@@ -1,6 +1,5 @@
-### Hi there 👋
 <p align="center">
-  <a href="https://www.edisonlee55.com"><img src="banner.png" alt="edisonlee55 Banner"></a>
+  <a href="https://suchmioko.blogspot.com"><img src="banner.png" alt="SuchMioko Banner"></a>
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://facebook.com/SuchPendragon">SuchMioko</a>!</h1>
