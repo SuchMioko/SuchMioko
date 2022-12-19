@@ -6,10 +6,6 @@
 <h2 align="center">Welcome to my GitHub profile</h2>
 
 <p align="center">
-  <a href="https://github.com/SuchMioko"><img src="https://github-readme-stats.vercel.app/api?username=SuchMioko&hide_border=true&show_icons=true&theme=dracula" alt="SuchMioko github stats"></a>
-</p>
-
-<p align="center">
   <strong><a href="https://suchmioko.blogspot.com">Official Blog</a></strong> |
   <strong><a href="https://facebook.com/SuchPendragon">Page Facebook</a></strong> |
 </p>
